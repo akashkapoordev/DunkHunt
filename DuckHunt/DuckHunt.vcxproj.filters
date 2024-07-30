@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header">
+      <UniqueIdentifier>{32ac8aca-ae6a-467d-87a5-f4ec25b4f428}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{164f3548-4b2a-475c-87fa-3cc9e1b1d122}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Main">
+      <UniqueIdentifier>{834750f3-af0e-49c6-919d-6531444593b4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\GameService\GameService.cpp" />
+    <ClCompile Include="Source\GraphicService\GraphicService.cpp" />
+    <ClCompile Include="Source\Global\ServiceLocator.cpp" />
+    <ClCompile Include="Source\EventService\EventService.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header\GameService\GameService.h" />
+    <ClInclude Include="Header\GraphicService\GraphicService.h" />
+    <ClInclude Include="Header\Global\ServiceLocator.h" />
+    <ClInclude Include="Header\EventService\EventService.h" />
+  </ItemGroup>
+</Project>

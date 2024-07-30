@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Source\\GameService\\GameService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\GameService\\GameService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Source\\Global\\ServiceLocator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\Global\\ServiceLocator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Source\\EventService\\EventService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\EventService\\EventService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Header\\Global\\ServiceLocator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\Global\\ServiceLocator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Header\\EventService\\EventService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\EventService\\EventService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Outscal Projects\\DuckHunt\\DuckHunt\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Source\\GraphicService\\GraphicService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\GraphicService\\GraphicService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Header\\GameService\\GameService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\GameService\\GameService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Header\\GraphicService\\GraphicService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\GraphicService\\GraphicService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 343,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 57,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventService.h",
+              "DocumentMoniker": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Header\\EventService\\EventService.h",
+              "RelativeDocumentMoniker": "Header\\EventService\\EventService.h",
+              "ToolTip": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Header\\EventService\\EventService.h",
+              "RelativeToolTip": "Header\\EventService\\EventService.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-30T17:17:44.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T15:37:13.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceLocator.cpp",
+              "DocumentMoniker": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Source\\Global\\ServiceLocator.cpp",
+              "RelativeDocumentMoniker": "Source\\Global\\ServiceLocator.cpp",
+              "ToolTip": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Source\\Global\\ServiceLocator.cpp",
+              "RelativeToolTip": "Source\\Global\\ServiceLocator.cpp",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwCcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T15:41:30.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceLocator.h",
+              "DocumentMoniker": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Header\\Global\\ServiceLocator.h",
+              "RelativeDocumentMoniker": "Header\\Global\\ServiceLocator.h",
+              "ToolTip": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Header\\Global\\ServiceLocator.h",
+              "RelativeToolTip": "Header\\Global\\ServiceLocator.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-30T15:40:31.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GraphicService.cpp",
+              "DocumentMoniker": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Source\\GraphicService\\GraphicService.cpp",
+              "RelativeDocumentMoniker": "Source\\GraphicService\\GraphicService.cpp",
+              "ToolTip": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Source\\GraphicService\\GraphicService.cpp",
+              "RelativeToolTip": "Source\\GraphicService\\GraphicService.cpp",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T15:34:56.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameService.cpp",
+              "DocumentMoniker": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Source\\GameService\\GameService.cpp",
+              "RelativeDocumentMoniker": "Source\\GameService\\GameService.cpp",
+              "ToolTip": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Source\\GameService\\GameService.cpp",
+              "RelativeToolTip": "Source\\GameService\\GameService.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAD4vx0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T15:31:15.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventService.cpp",
+              "DocumentMoniker": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Source\\EventService\\EventService.cpp",
+              "RelativeDocumentMoniker": "Source\\EventService\\EventService.cpp",
+              "ToolTip": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Source\\EventService\\EventService.cpp",
+              "RelativeToolTip": "Source\\EventService\\EventService.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAD4vxcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T17:17:58.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameService.h",
+              "DocumentMoniker": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Header\\GameService\\GameService.h",
+              "RelativeDocumentMoniker": "Header\\GameService\\GameService.h",
+              "ToolTip": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Header\\GameService\\GameService.h",
+              "RelativeToolTip": "Header\\GameService\\GameService.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-30T15:30:31.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GraphicService.h",
+              "DocumentMoniker": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Header\\GraphicService\\GraphicService.h",
+              "RelativeDocumentMoniker": "Header\\GraphicService\\GraphicService.h",
+              "ToolTip": "E:\\Outscal Projects\\DuckHunt\\DuckHunt\\Header\\GraphicService\\GraphicService.h",
+              "RelativeToolTip": "Header\\GraphicService\\GraphicService.h",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-30T15:33:54.402Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
