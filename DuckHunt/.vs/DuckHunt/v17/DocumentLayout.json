@@ -1,0 +1,745 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Github\\DunkHunt\\DuckHunt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\Player\\PlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\Player\\PlayerController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\Player\\PlayerModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\Player\\PlayerModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\Wave\\Wave.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\Wave\\Wave.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\Wave\\Wave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\Wave\\Wave.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\EnemyService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\Enemy\\EnemyService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\EnemyController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\Enemy\\EnemyController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\Controller\\GamePlayControllerUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\UIService\\Controller\\GamePlayControllerUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\Player\\PlayerModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\Player\\PlayerModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\Player\\PlayerService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\Player\\PlayerService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Controller\\GamePlayControllerUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\UIService\\Controller\\GamePlayControllerUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\GamePlayService\\GamePlayService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\GamePlayService\\GamePlayService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\GamePlayService\\GamePlayService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\GamePlayService\\GamePlayService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\Global\\ServiceLocator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\Global\\ServiceLocator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\Enemy\\EnemyService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\Enemy\\EnemyService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\Player\\PlayerService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\Player\\PlayerService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\GamePlayService\\GamePlayController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\GamePlayService\\GamePlayController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\Player\\PlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\Player\\PlayerController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\GameService\\GameService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\GameService\\GameService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\GameService\\GameService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\GameService\\GameService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\Enemy\\EnemyModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\Enemy\\EnemyModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\EnemyModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\Enemy\\EnemyModel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\EnemyView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\Enemy\\EnemyView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\GamePlayService\\GamePlayController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\GamePlayService\\GamePlayController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\GamePlayService\\GamePlayView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\GamePlayService\\GamePlayView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\GamePlayService\\GamePlayView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\GamePlayService\\GamePlayView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\Controller\\SplashScreenUIController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\UIService\\Controller\\SplashScreenUIController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\Global\\Config.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\Global\\Config.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\UIService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\UIService\\UIService.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\UIService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\UIService\\UIService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\Global\\Config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\Global\\Config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Controller\\SplashScreenUIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\UIService\\Controller\\SplashScreenUIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Interface\\IUIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\UIService\\Interface\\IUIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Elements\\UIView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\UIService\\Elements\\UIView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\Elements\\AnimatedImageView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\UIService\\Elements\\AnimatedImageView.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Elements\\AnimatedImageView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\UIService\\Elements\\AnimatedImageView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\Enemy\\EnemyController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\Enemy\\EnemyController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\Controller\\GreenDuckController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\Enemy\\Controller\\GreenDuckController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\Global\\ServiceLocator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\Global\\ServiceLocator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\Enemy\\EnemyView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\Enemy\\EnemyView.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\Controller\\MainMenuController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Source\\UIService\\Controller\\MainMenuController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|E:\\Github\\DunkHunt\\DuckHunt\\Header\\Time\\TimeService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EC5F605E-378A-460E-93A2-39086A488C9A}|DuckHunt.vcxproj|solutionrelative:Header\\Time\\TimeService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 253,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 123,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wave.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Wave\\Wave.cpp",
+              "RelativeDocumentMoniker": "Source\\Wave\\Wave.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Wave\\Wave.cpp",
+              "RelativeToolTip": "Source\\Wave\\Wave.cpp",
+              "ViewState": "AQIAAG4AAAAAAAAAAAASwHwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T17:48:30.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GamePlayControllerUI.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\Controller\\GamePlayControllerUI.cpp",
+              "RelativeDocumentMoniker": "Source\\UIService\\Controller\\GamePlayControllerUI.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\Controller\\GamePlayControllerUI.cpp",
+              "RelativeToolTip": "Source\\UIService\\Controller\\GamePlayControllerUI.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwDEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T02:17:52.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wave.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Wave\\Wave.h",
+              "RelativeDocumentMoniker": "Header\\Wave\\Wave.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Wave\\Wave.h",
+              "RelativeToolTip": "Header\\Wave\\Wave.h",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T17:47:57.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyController.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\EnemyController.cpp",
+              "RelativeDocumentMoniker": "Source\\Enemy\\EnemyController.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\EnemyController.cpp",
+              "RelativeToolTip": "Source\\Enemy\\EnemyController.cpp",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAUwJEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T17:46:50.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyService.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\EnemyService.cpp",
+              "RelativeDocumentMoniker": "Source\\Enemy\\EnemyService.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\EnemyService.cpp",
+              "RelativeToolTip": "Source\\Enemy\\EnemyService.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwJcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T03:48:24.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Player\\PlayerController.cpp",
+              "RelativeDocumentMoniker": "Source\\Player\\PlayerController.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Player\\PlayerController.cpp",
+              "RelativeToolTip": "Source\\Player\\PlayerController.cpp",
+              "ViewState": "AQIAACsAAAAAAAAAAAASwEEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T02:21:11.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerModel.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Player\\PlayerModel.cpp",
+              "RelativeDocumentMoniker": "Source\\Player\\PlayerModel.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Player\\PlayerModel.cpp",
+              "RelativeToolTip": "Source\\Player\\PlayerModel.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAzwBMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T03:29:34.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerModel.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Player\\PlayerModel.h",
+              "RelativeDocumentMoniker": "Header\\Player\\PlayerModel.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Player\\PlayerModel.h",
+              "RelativeToolTip": "Header\\Player\\PlayerModel.h",
+              "ViewState": "AQIAAAgAAAAAAAAAAAASwBYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T02:17:18.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerService.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Player\\PlayerService.cpp",
+              "RelativeDocumentMoniker": "Source\\Player\\PlayerService.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Player\\PlayerService.cpp",
+              "RelativeToolTip": "Source\\Player\\PlayerService.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T18:31:32.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GamePlayControllerUI.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Controller\\GamePlayControllerUI.h",
+              "RelativeDocumentMoniker": "Header\\UIService\\Controller\\GamePlayControllerUI.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Controller\\GamePlayControllerUI.h",
+              "RelativeToolTip": "Header\\UIService\\Controller\\GamePlayControllerUI.h",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T02:18:01.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnemyService.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Enemy\\EnemyService.h",
+              "RelativeDocumentMoniker": "Header\\Enemy\\EnemyService.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Enemy\\EnemyService.h",
+              "RelativeToolTip": "Header\\Enemy\\EnemyService.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T03:48:28.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceLocator.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Global\\ServiceLocator.cpp",
+              "RelativeDocumentMoniker": "Source\\Global\\ServiceLocator.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Global\\ServiceLocator.cpp",
+              "RelativeToolTip": "Source\\Global\\ServiceLocator.cpp",
+              "ViewState": "AQIAAHkAAAAAAAAAAAASwHoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T19:22:40.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GamePlayService.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\GamePlayService\\GamePlayService.h",
+              "RelativeDocumentMoniker": "Header\\GamePlayService\\GamePlayService.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\GamePlayService\\GamePlayService.h",
+              "RelativeToolTip": "Header\\GamePlayService\\GamePlayService.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T21:50:52.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GamePlayService.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\GamePlayService\\GamePlayService.cpp",
+              "RelativeDocumentMoniker": "Source\\GamePlayService\\GamePlayService.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\GamePlayService\\GamePlayService.cpp",
+              "RelativeToolTip": "Source\\GamePlayService\\GamePlayService.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAASwC4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T03:29:38.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerService.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Player\\PlayerService.h",
+              "RelativeDocumentMoniker": "Header\\Player\\PlayerService.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Player\\PlayerService.h",
+              "RelativeToolTip": "Header\\Player\\PlayerService.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T18:31:22.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GamePlayController.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\GamePlayService\\GamePlayController.cpp",
+              "RelativeDocumentMoniker": "Source\\GamePlayService\\GamePlayController.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\GamePlayService\\GamePlayController.cpp",
+              "RelativeToolTip": "Source\\GamePlayService\\GamePlayController.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T02:17:48.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerController.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Player\\PlayerController.h",
+              "RelativeDocumentMoniker": "Header\\Player\\PlayerController.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Player\\PlayerController.h",
+              "RelativeToolTip": "Header\\Player\\PlayerController.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T18:29:18.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameService.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\GameService\\GameService.cpp",
+              "RelativeDocumentMoniker": "Source\\GameService\\GameService.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\GameService\\GameService.cpp",
+              "RelativeToolTip": "Source\\GameService\\GameService.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwFEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T03:29:53.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameService.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\GameService\\GameService.h",
+              "RelativeDocumentMoniker": "Header\\GameService\\GameService.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\GameService\\GameService.h",
+              "RelativeToolTip": "Header\\GameService\\GameService.h",
+              "ViewState": "AQIAABkAAAAAAAAAAAAEwCMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T00:58:34.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnemyModel.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Enemy\\EnemyModel.h",
+              "RelativeDocumentMoniker": "Header\\Enemy\\EnemyModel.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Enemy\\EnemyModel.h",
+              "RelativeToolTip": "Header\\Enemy\\EnemyModel.h",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T17:46:31.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EnemyModel.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\EnemyModel.cpp",
+              "RelativeDocumentMoniker": "Source\\Enemy\\EnemyModel.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\EnemyModel.cpp",
+              "RelativeToolTip": "Source\\Enemy\\EnemyModel.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T18:24:38.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnemyView.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\EnemyView.cpp",
+              "RelativeDocumentMoniker": "Source\\Enemy\\EnemyView.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\EnemyView.cpp",
+              "RelativeToolTip": "Source\\Enemy\\EnemyView.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T22:13:40.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GamePlayView.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\GamePlayService\\GamePlayView.h",
+              "RelativeDocumentMoniker": "Header\\GamePlayService\\GamePlayView.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\GamePlayService\\GamePlayView.h",
+              "RelativeToolTip": "Header\\GamePlayService\\GamePlayView.h",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T21:47:12.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GamePlayController.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\GamePlayService\\GamePlayController.h",
+              "RelativeDocumentMoniker": "Header\\GamePlayService\\GamePlayController.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\GamePlayService\\GamePlayController.h",
+              "RelativeToolTip": "Header\\GamePlayService\\GamePlayController.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T21:50:04.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GamePlayView.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\GamePlayService\\GamePlayView.cpp",
+              "RelativeDocumentMoniker": "Source\\GamePlayService\\GamePlayView.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\GamePlayService\\GamePlayView.cpp",
+              "RelativeToolTip": "Source\\GamePlayService\\GamePlayView.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAQwD0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T03:29:44.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SplashScreenUIController.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\Controller\\SplashScreenUIController.cpp",
+              "RelativeDocumentMoniker": "Source\\UIService\\Controller\\SplashScreenUIController.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\Controller\\SplashScreenUIController.cpp",
+              "RelativeToolTip": "Source\\UIService\\Controller\\SplashScreenUIController.cpp",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwDcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T00:57:23.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UIService.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\UIService.cpp",
+              "RelativeDocumentMoniker": "Source\\UIService\\UIService.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\UIService.cpp",
+              "RelativeToolTip": "Source\\UIService\\UIService.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwEoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T03:30:05.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UIService.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\UIService.h",
+              "RelativeDocumentMoniker": "Header\\UIService\\UIService.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\UIService.h",
+              "RelativeToolTip": "Header\\UIService\\UIService.h",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T00:55:50.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Config.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Global\\Config.cpp",
+              "RelativeDocumentMoniker": "Source\\Global\\Config.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Global\\Config.cpp",
+              "RelativeToolTip": "Source\\Global\\Config.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T01:03:59.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Config.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Global\\Config.h",
+              "RelativeDocumentMoniker": "Header\\Global\\Config.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Global\\Config.h",
+              "RelativeToolTip": "Header\\Global\\Config.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T01:03:34.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SplashScreenUIController.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Controller\\SplashScreenUIController.h",
+              "RelativeDocumentMoniker": "Header\\UIService\\Controller\\SplashScreenUIController.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Controller\\SplashScreenUIController.h",
+              "RelativeToolTip": "Header\\UIService\\Controller\\SplashScreenUIController.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T00:53:46.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUIController.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Interface\\IUIController.h",
+              "RelativeDocumentMoniker": "Header\\UIService\\Interface\\IUIController.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Interface\\IUIController.h",
+              "RelativeToolTip": "Header\\UIService\\Interface\\IUIController.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T00:56:40.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UIView.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Elements\\UIView.h",
+              "RelativeDocumentMoniker": "Header\\UIService\\Elements\\UIView.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Elements\\UIView.h",
+              "RelativeToolTip": "Header\\UIService\\Elements\\UIView.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T00:55:54.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AnimatedImageView.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\Elements\\AnimatedImageView.cpp",
+              "RelativeDocumentMoniker": "Source\\UIService\\Elements\\AnimatedImageView.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\Elements\\AnimatedImageView.cpp",
+              "RelativeToolTip": "Source\\UIService\\Elements\\AnimatedImageView.cpp",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwDQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T00:47:09.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AnimatedImageView.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Elements\\AnimatedImageView.h",
+              "RelativeDocumentMoniker": "Header\\UIService\\Elements\\AnimatedImageView.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\UIService\\Elements\\AnimatedImageView.h",
+              "RelativeToolTip": "Header\\UIService\\Elements\\AnimatedImageView.h",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T00:43:29.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EnemyController.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Enemy\\EnemyController.h",
+              "RelativeDocumentMoniker": "Header\\Enemy\\EnemyController.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Enemy\\EnemyController.h",
+              "RelativeToolTip": "Header\\Enemy\\EnemyController.h",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T17:46:32.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GreenDuckController.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\Controller\\GreenDuckController.cpp",
+              "RelativeDocumentMoniker": "Source\\Enemy\\Controller\\GreenDuckController.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\Enemy\\Controller\\GreenDuckController.cpp",
+              "RelativeToolTip": "Source\\Enemy\\Controller\\GreenDuckController.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T20:19:26.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ServiceLocator.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Global\\ServiceLocator.h",
+              "RelativeDocumentMoniker": "Header\\Global\\ServiceLocator.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Global\\ServiceLocator.h",
+              "RelativeToolTip": "Header\\Global\\ServiceLocator.h",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T19:22:46.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EnemyView.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Enemy\\EnemyView.h",
+              "RelativeDocumentMoniker": "Header\\Enemy\\EnemyView.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Enemy\\EnemyView.h",
+              "RelativeToolTip": "Header\\Enemy\\EnemyView.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T17:46:37.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainMenuController.cpp",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\Controller\\MainMenuController.cpp",
+              "RelativeDocumentMoniker": "Source\\UIService\\Controller\\MainMenuController.cpp",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Source\\UIService\\Controller\\MainMenuController.cpp",
+              "RelativeToolTip": "Source\\UIService\\Controller\\MainMenuController.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwEcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-05T03:30:02.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TimeService.h",
+              "DocumentMoniker": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Time\\TimeService.h",
+              "RelativeDocumentMoniker": "Header\\Time\\TimeService.h",
+              "ToolTip": "E:\\Github\\DunkHunt\\DuckHunt\\Header\\Time\\TimeService.h",
+              "RelativeToolTip": "Header\\Time\\TimeService.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-16T16:29:56.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

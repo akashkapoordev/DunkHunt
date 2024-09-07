@@ -22,8 +22,8 @@ namespace Graphics
 
 	private:
 		const std::string game_title = "Duck Hunt";
-		int game_window_width = 800;
-		int game_window_height = 600;
+		int game_window_width = 1920;
+		int game_window_height = 1080;
 
 		sf::Color window_color = sf::Color::Blue;
 		sf::VideoMode* video_mode;

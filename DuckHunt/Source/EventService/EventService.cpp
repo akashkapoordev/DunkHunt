@@ -21,7 +21,7 @@ namespace Event
 
 	void EventService::update()
 	{
-		
+		updateMouseButtonState(left_mouse_button, sf::Mouse::Left);
 	}
 
 	void EventService::processEvent()
@@ -46,6 +46,39 @@ namespace Event
 	bool EventService::keyBoardEvent()
 	{
 		return game_event.type == sf::Event::KeyPressed;;
+
+	}
+
+	//bool EventService::leftMouseButton()
+	//{
+	//	return game_event.mouseButton.button == sf::Mouse::Left;
+	//}
+	
+	bool EventService::pressedLeftMouseButton()
+	{
+		return left_mouse_button == ButtonState::PRESSED;
+	}
+
+	void EventService::updateMouseButtonState(ButtonState& current_state, sf::Mouse::Button mouse_button)
+	{
+		if (sf::Mouse::isButtonPressed(mouse_button))
+		{
+			switch (current_state)
+			{
+			case Event::ButtonState::RELEASED:
+				current_state = ButtonState::PRESSED;
+				break;
+			case Event::ButtonState::PRESSED:
+				current_state = ButtonState::HELD;
+				break;
+			default:
+				break;
+			}
+		}
+		else
+		{
+			current_state = ButtonState::RELEASED;
+		}
 
 	}
 
